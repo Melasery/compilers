@@ -1,0 +1,5 @@
+*.o
+miniC
+lex.yy.c
+miniC.tab.*
+.DS_Store

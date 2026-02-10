@@ -1,0 +1,15 @@
+# Object files and executables
+*.o
+miniC
+miniC.dSYM/
+
+# Generated Source Files
+lex.yy.c
+miniC.tab.c
+miniC.tab.h
+
+# Mac System Files
+.DS_Store
+
+# Test Artifacts
+submission/
